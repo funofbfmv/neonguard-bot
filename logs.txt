@@ -18,3 +18,10 @@
  с paymentId 735915780-1719471656913
 2024-06-27T07:37:18.736Z - User 735915780 (username: mason_mzk) выбрал криптовалюту для тарифа 🔒Морфиус 
  с paymentId 735915780-1719471656913
+2024-07-04T21:08:04.788Z - Ошибка запуска бота: FetchError: request to https://api.telegram.org/bot7073713477:[REDACTED]/getMe failed, reason: connect ECONNREFUSED 149.154.167.220:443
+2024-07-04T21:08:06.492Z - Ошибка запуска бота: FetchError: request to https://api.telegram.org/bot7073713477:[REDACTED]/getMe failed, reason: connect ECONNREFUSED 149.154.167.220:443
+2024-07-04T21:09:15.443Z - Ошибка запуска бота: FetchError: request to https://api.telegram.org/bot7073713477:[REDACTED]/getMe failed, reason: connect ECONNREFUSED 149.154.167.220:443
+2024-07-04T21:09:58.499Z - Ошибка запуска бота: FetchError: request to https://api.telegram.org/bot7073713477:[REDACTED]/getMe failed, reason: connect ECONNREFUSED 149.154.167.220:443
+2024-07-04T21:10:00.056Z - Ошибка запуска бота: FetchError: request to https://api.telegram.org/bot7073713477:[REDACTED]/getMe failed, reason: connect ECONNREFUSED 149.154.167.220:443
+2024-07-04T21:19:35.332Z - Ошибка запуска бота: FetchError: request to https://api.telegram.org/bot7073713477:[REDACTED]/getMe failed, reason: connect ECONNREFUSED 149.154.167.220:443
+2024-07-04T21:22:59.175Z - Ошибка запуска бота: FetchError: request to https://api.telegram.org/bot7073713477:[REDACTED]/getMe failed, reason: connect ECONNREFUSED 149.154.167.220:443

@@ -2,7 +2,7 @@ const { Telegraf, Markup } = require('telegraf');
 const path = require('path');
 const fs = require('fs');
 
-const bot = new Telegraf('7073713477:AAHUPPdBP4j6fY2s-xX92HVySy9isbx8VMU');
+const bot = new Telegraf('');
 
 // Логирование ошибок в файл
 const logStream = fs.createWriteStream(path.join(__dirname, 'logs.txt'), { flags: 'a' });
